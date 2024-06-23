@@ -1,4 +1,4 @@
-# Hi there, I'm Andri - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Andri - aka [andricdarmawan](https://www.youtube.com/) 👋
 ## About me:
 - 🔭 I’m currently working as Freelance
 - 🌱 I’m currently learning Python
@@ -48,4 +48,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/andricd/andricd
